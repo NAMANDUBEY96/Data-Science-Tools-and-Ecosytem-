@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naman Dubey</h1>
 <h3 align="center">A passionate Data Science from India</h3>
-<align="right" alt="Coding" width="400" src="https://https://tse3.mm.bing.net/th?id=OIP.kwFu73Iud7E0RnQJw15CYQHaCp&pid=Api&P=0&h=180">
+<align="right" alt="Coding" width="400" src="https://tse3.mm.bing.net/th?id=OIP.kwFu73Iud7E0RnQJw15CYQHaCp&pid=Api&P=0&h=180">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namandubey96&label=Profile%20views&color=0e75b6&style=flat" alt="namandubey96" /> </p>
 
